@@ -24,4 +24,11 @@
   - Deployed on Render with a MySQL backend.
   - [View on GitHub](https://github.com/jimmylawson/finance-tracker)
 
+- **Coffee Menu App**  
+  Created an interactive coffee menu app using Python, Flask, and SQLite.  
+  - Developed dynamic routes for adding, editing, and deleting menu items.
+  - Implemented user-friendly interface for managing coffee inventory.
+  - Deployed with Docker and integrated basic user authentication.
+  - [View on GitHub](https://github.com/jimmylawson/coffeemenu-app)
+
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/jim-nana-akwasi-osei/)
